@@ -108,5 +108,4 @@ ggplot(est_actual_GA_valid.disease) +
   xlab("Gestational age (week)") + ylab("") +
   ggtitle("Validation cohort\n(Specific-disease 55 cases)") +
   annotate("text", x = 26.2, y = 38, label = paste0("RMSE = ", round(rmse(est_actual_GA_valid.disease$actual_GA, est_actual_GA_valid.disease$predicted_GA), digits = 2)))+
-  stat_cor(aes(x=actual_GA,y=predicted_GA), 
-           label.x=23, label.y=39.5)
+  stat_cor(aes(x=actual_GA,y=predicted_GA), label.x=23, label.y=39.5)
