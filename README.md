@@ -1,1 +1,27 @@
-This repository provides code used in Shitara, Konno, Yoshihara et al. <B>Host-derived protein profiles of human neonatal meconium across gestational ages.</B> <i>Nat Commun</i>, 2024.
+This repository provides code used in Shitara, Y., Konno, R., Yoshihara, M. et al. Host-derived protein profiles of human neonatal meconium across gestational ages. <i>Nat Commun</i> <B>15</B>, 5543 (2024). [https://doi.org/10.1038/s41467-024-49805-w]
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
